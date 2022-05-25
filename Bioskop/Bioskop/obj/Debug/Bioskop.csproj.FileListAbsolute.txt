@@ -1,0 +1,12 @@
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\bin\Debug\Bioskop.exe.config
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\bin\Debug\Bioskop.exe
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\bin\Debug\Bioskop.pdb
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\obj\Debug\Bioskop.csprojAssemblyReference.cache
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\obj\Debug\Bioskop.Login.resources
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\obj\Debug\Bioskop.Properties.Resources.resources
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\obj\Debug\Bioskop.csproj.GenerateResource.cache
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\obj\Debug\Bioskop.csproj.CoreCompileInputs.cache
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\obj\Debug\Bioskop.exe
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\obj\Debug\Bioskop.pdb
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\obj\Debug\Bioskop.Rezervacije.resources
+C:\Users\Peky\Desktop\Bioskop\Bioskop\Bioskop\obj\Debug\Bioskop.Rezervisi.resources
